@@ -3,6 +3,7 @@
 ![rice1_colorscheme](https://user-images.githubusercontent.com/77428502/213889430-3a13219d-0802-48ed-b9f4-63e2313856cb.png)
 ![rice1_wayland_clients](https://user-images.githubusercontent.com/77428502/213889436-2b5f07a3-6f80-4a4b-9272-56b5d86efae0.png)
 ![rice1_hardware_stats](https://user-images.githubusercontent.com/77428502/213889437-c1d6a476-d2dc-4cf9-b953-7018fa581db4.png)
+![rice1_neovim](https://user-images.githubusercontent.com/77428502/213889438-55892222-50f8-4234-a413-5cc255c11b5e.png)
 ![rice1_rofi](https://user-images.githubusercontent.com/77428502/213889439-ff998a7c-8d38-4a91-8f4e-cb8a8d8ecfdf.png)
 
 # Recommended Usage
