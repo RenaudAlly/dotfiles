@@ -1,0 +1,10 @@
+exit
+info stack
+show stack
+continue
+exit
+info stack
+show stack
+exit
+./golombSequence
+exit

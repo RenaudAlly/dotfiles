@@ -1,0 +1,900 @@
+Mono path[0] = '/home/arjun/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = '/home/arjun/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/MonoBleedingEdge/etc'
+Preloaded 'libsteam_api.so'
+Display 0 'XWAYLAND0 14"': 1872x1253 (primary device).
+Desktop is 1872 x 1253 @ 60 Hz
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+Vulkan detection: 2
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path /home/arjun/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x1c67c80 [0]: "Intel(R) UHD Graphics 620 (KBL GT2)" deviceType=1 vendorID=8086 deviceID=5917
+[Vulkan init] Selected physical device 0x1c67c80
+[Vulkan init] Graphics queue count=1
+[Vulkan init] extensions: count=126
+[Vulkan init] extensions: name=VK_KHR_8bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_16bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_bind_memory2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_KHR_copy_commands2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_create_renderpass2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_dedicated_allocation, enabled=1
+[Vulkan init] extensions: name=VK_KHR_deferred_host_operations, enabled=0
+[Vulkan init] extensions: name=VK_KHR_depth_stencil_resolve, enabled=1
+[Vulkan init] extensions: name=VK_KHR_descriptor_update_template, enabled=1
+[Vulkan init] extensions: name=VK_KHR_device_group, enabled=0
+[Vulkan init] extensions: name=VK_KHR_draw_indirect_count, enabled=0
+[Vulkan init] extensions: name=VK_KHR_driver_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_dynamic_rendering, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_format_feature_flags2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_memory_requirements2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_image_format_list, enabled=1
+[Vulkan init] extensions: name=VK_KHR_imageless_framebuffer, enabled=0
+[Vulkan init] extensions: name=VK_KHR_incremental_present, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance1, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance3, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_multiview, enabled=1
+[Vulkan init] extensions: name=VK_KHR_pipeline_executable_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_pipeline_library, enabled=0
+[Vulkan init] extensions: name=VK_KHR_push_descriptor, enabled=0
+[Vulkan init] extensions: name=VK_KHR_relaxed_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_sampler_mirror_clamp_to_edge, enabled=1
+[Vulkan init] extensions: name=VK_KHR_sampler_ycbcr_conversion, enabled=0
+[Vulkan init] extensions: name=VK_KHR_separate_depth_stencil_layouts, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_atomic_int64, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_clock, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_draw_parameters, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float16_int8, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float_controls, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_integer_dot_product, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_non_semantic_info, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_extended_types, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_uniform_control_flow, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_terminate_invocation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_spirv_1_4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_storage_buffer_storage_class, enabled=0
+[Vulkan init] extensions: name=VK_KHR_swapchain, enabled=1
+[Vulkan init] extensions: name=VK_KHR_swapchain_mutable_format, enabled=0
+[Vulkan init] extensions: name=VK_KHR_synchronization2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_timeline_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_uniform_buffer_standard_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_variable_pointers, enabled=0
+[Vulkan init] extensions: name=VK_KHR_vulkan_memory_model, enabled=0
+[Vulkan init] extensions: name=VK_KHR_workgroup_memory_explicit_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_zero_initialize_workgroup_memory, enabled=0
+[Vulkan init] extensions: name=VK_EXT_4444_formats, enabled=0
+[Vulkan init] extensions: name=VK_EXT_border_color_swizzle, enabled=0
+[Vulkan init] extensions: name=VK_EXT_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_EXT_calibrated_timestamps, enabled=0
+[Vulkan init] extensions: name=VK_EXT_color_write_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conditional_rendering, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conservative_rasterization, enabled=1
+[Vulkan init] extensions: name=VK_EXT_custom_border_color, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clamp_zero_one, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_descriptor_indexing, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state3, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_dma_buf, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_host, enabled=0
+[Vulkan init] extensions: name=VK_EXT_fragment_shader_interlock, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_host_query_reset, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_2d_view_of_3d, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_drm_format_modifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_robustness, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_view_min_lod, enabled=0
+[Vulkan init] extensions: name=VK_EXT_index_type_uint8, enabled=0
+[Vulkan init] extensions: name=VK_EXT_inline_uniform_block, enabled=0
+[Vulkan init] extensions: name=VK_EXT_line_rasterization, enabled=0
+[Vulkan init] extensions: name=VK_EXT_memory_budget, enabled=0
+[Vulkan init] extensions: name=VK_EXT_multi_draw, enabled=0
+[Vulkan init] extensions: name=VK_EXT_mutable_descriptor_type, enabled=0
+[Vulkan init] extensions: name=VK_EXT_non_seamless_cube_map, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pci_bus_info, enabled=0
+[Vulkan init] extensions: name=VK_EXT_physical_device_drm, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_cache_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_post_depth_coverage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitive_topology_list_restart, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitives_generated_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_private_data, enabled=0
+[Vulkan init] extensions: name=VK_EXT_provoking_vertex, enabled=0
+[Vulkan init] extensions: name=VK_EXT_queue_family_foreign, enabled=0
+[Vulkan init] extensions: name=VK_EXT_robustness2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_sample_locations, enabled=0
+[Vulkan init] extensions: name=VK_EXT_sampler_filter_minmax, enabled=0
+[Vulkan init] extensions: name=VK_EXT_scalar_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_EXT_separate_stencil_usage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_demote_to_helper_invocation, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_module_identifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_stencil_export, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_ballot, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_vote, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_viewport_index_layer, enabled=1
+[Vulkan init] extensions: name=VK_EXT_subgroup_size_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_texel_buffer_alignment, enabled=0
+[Vulkan init] extensions: name=VK_EXT_tooling_info, enabled=0
+[Vulkan init] extensions: name=VK_EXT_transform_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_vertex_attribute_divisor, enabled=0
+[Vulkan init] extensions: name=VK_EXT_ycbcr_image_arrays, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_decorate_string, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_hlsl_functionality1, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_user_type, enabled=0
+[Vulkan init] extensions: name=VK_INTEL_shader_integer_functions2, enabled=0
+[Vulkan init] extensions: name=VK_NV_compute_shader_derivatives, enabled=0
+[Vulkan init] extensions: name=VK_VALVE_mutable_descriptor_type, enabled=0
+Fossilize INFO: Overriding serialization path: "/home/arjun/.local/share/Steam/steamapps/shadercache/367520/fozpipelinesv6/steamapprun_pipeline_cache".
+Vulkan API version 1.1.0 (1.3.230 supported by driver, 1.1.0 requested)
+Vulkan vendor=[Intel] id=[8086]
+Vulkan renderer=[Intel(R) UHD Graphics 620 (KBL GT2)] id=[5917]
+Vulkan device type 1
+Vulkan driverversion=[0x05803003] uint=[92286979]
+Vulkan PSO: cache data not found [path=/tmp/Team Cherry/Hollow Knight/vulkan_pso_cache.bin]
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.128 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+requesting resize 1879 x 1253
+Using native desktop resolution 1872 x 1253
+requesting fullscreen 1872 x 1253 at 0 Hz
+Desktop is 1872 x 1253 @ 60 Hz
+InitializeOrResetSwapChain 1872x1253 hdr=0 samples=1
+The class named 'ConfigManager' is abstract. The script class can't be abstract!
+
+UnloadTime: 27.009645 ms
+Graphics tier changed to High
+
+Steam initializing
+
+[S_API] SteamAPI_Init(): Loaded '/home/arjun/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 367520
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198967804582 [API loaded no]
+Steam logged in as Renaud Ally
+
+Selected online subsystem SteamOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'EN'
+
+Restored language code 'EN'
+
+
+Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 2.278236 ms (FindLiveObjects: 0.296988 ms CreateObjectMapping: 0.191524 ms MarkObjects: 1.566208 ms  DeleteObjects: 0.222712 ms)
+
+Steam stats received.
+
+Changing real window size to 1879 x 1253
+InitializeOrResetSwapChain 1879x1253 hdr=0 samples=1
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 10.235756 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to None.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46219.
+Total: 181.896227 ms (FindLiveObjects: 3.104289 ms CreateObjectMapping: 1.368911 ms MarkObjects: 177.277812 ms  DeleteObjects: 0.144600 ms)
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 49176.
+Total: 213.384425 ms (FindLiveObjects: 2.746765 ms CreateObjectMapping: 1.449477 ms MarkObjects: 208.583024 ms  DeleteObjects: 0.604374 ms)
+
+Bump Height: 1.192093E-07
+
+Could not find FSM: up_color
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: RestingGrounds_02_boss in sequence
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+Bump Height: 0.2805853
+
+Bump Height: 0.2847505
+
+Object Pool attached to GlobalPool has run out of White Flash R prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: advance_conversation
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Enough Geo
+
+LoadLevel: Cinematic_Stag_travel
+
+Unloading 52 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.454889 ms
+Performing automatic level start.
+
+
+Unloading 3233 unused Assets to reduce memory usage. Loaded Objects now: 53917.
+Total: 493.199448 ms (FindLiveObjects: 4.719391 ms CreateObjectMapping: 2.292682 ms MarkObjects: 472.865385 ms  DeleteObjects: 13.320443 ms)
+
+Setting skip mode: SKIP_INSTANT
+
+Started cinematic 'StagTunnelRun'
+
+Started cinematic 'StagTunnelRun'
+
+Stopped cinematic 'StagTunnelRun'
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Object Pool attached to GlobalPool could not find a copy of Plat Grass, Instantiating a new one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Could not find FSM: Enough Geo
+
+Could not find FSM: Enough Geo
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Enough Geo
+
+LoadLevel: Cinematic_Stag_travel
+
+Unloading 46 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.271262 ms
+Performing automatic level start.
+
+
+Unloading 2408 unused Assets to reduce memory usage. Loaded Objects now: 53936.
+Total: 505.373374 ms (FindLiveObjects: 4.752022 ms CreateObjectMapping: 2.159347 ms MarkObjects: 490.407242 ms  DeleteObjects: 8.053130 ms)
+
+Setting skip mode: SKIP_INSTANT
+
+Started cinematic 'StagTunnelRun'
+
+Started cinematic 'StagTunnelRun'
+
+Stopped cinematic 'StagTunnelRun'
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.007049561
+
+Bump Height: 0.007049561
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Could not find FSM: Enough Geo
+
+Could not find FSM: Enough Geo
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.384586 ms
+Deferring level start (marked as manual).
+
+
+Unloading 2335 unused Assets to reduce memory usage. Loaded Objects now: 53257.
+Total: 262.689000 ms (FindLiveObjects: 3.185111 ms CreateObjectMapping: 1.621085 ms MarkObjects: 253.102926 ms  DeleteObjects: 4.779292 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310338 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to None.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 487 unused Assets to reduce memory usage. Loaded Objects now: 47740.
+Total: 213.881782 ms (FindLiveObjects: 2.676816 ms CreateObjectMapping: 1.484673 ms MarkObjects: 208.137286 ms  DeleteObjects: 1.582235 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7f59cab066c0 -> priority: 1 
+  Thread -> id: 7f59c6d4c6c0 -> priority: 1 
+  Thread -> id: 7f59c493f6c0 -> priority: 1 
+  Thread -> id: 7f59bd5406c0 -> priority: 1 
+Shutting down Steam API.
+
+Vulkan PSO: data extracted [new size=138880, old size=0, incomplete=0]
+Vulkan PSO: Saved size[138880] path[/tmp/Team Cherry/Hollow Knight/vulkan_pso_cache.bin] success=1 headerChanged=1 sizeChanged=1
+Waiting on threads to park on joinable thread list timed out.

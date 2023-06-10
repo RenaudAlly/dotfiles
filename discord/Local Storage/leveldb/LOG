@@ -1,0 +1,11 @@
+2023/05/13-11:51:31.662 9923 Reusing MANIFEST /home/arjun/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/05/13-11:51:31.662 9923 Recovering log #223
+2023/05/13-11:51:31.663 9923 Level-0 table #227: started
+2023/05/13-11:51:31.672 9923 Level-0 table #227: 26478 bytes OK
+2023/05/13-11:51:31.676 9923 Delete type=0 #223
+2023/05/13-11:52:32.858 9960 Level-0 table #230: started
+2023/05/13-11:52:32.865 9960 Level-0 table #230: 31639 bytes OK
+2023/05/13-11:52:32.868 9960 Delete type=0 #228
+2023/05/13-11:55:28.310 9960 Level-0 table #232: started
+2023/05/13-11:55:28.385 9960 Level-0 table #232: 1611347 bytes OK
+2023/05/13-11:55:28.388 9960 Delete type=0 #229

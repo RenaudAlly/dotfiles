@@ -1,0 +1,6 @@
+set history save on
+set history size 4096
+set history filename ~/.config/gdb/history
+set history remove-duplicates unlimited
+set debuginfod enabled on
+set disassembly-flavor intel
