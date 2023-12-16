@@ -8,3 +8,33 @@ show stack
 exit
 ./golombSequence
 exit
+exit
+run override/network01.txt DirectedGraph 1
+q
+run override/network01.txt DirectedGraph 1
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+run override/network01.txt DirectedGraph 1
+exit
+run override/network01.txt DirectedGraph 1
+q
+q
+q
+q
+q
+y
+q

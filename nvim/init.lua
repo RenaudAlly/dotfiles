@@ -31,8 +31,12 @@ require('packer').startup(function(use)
 
   -- Rust tools which increases the functionality of rust_analyzer (but it cannot work without stopping mason configuring lspconfig)
   use 'simrat39/rust-tools.nvim'
+
   -- Adding configuration for rust tools which is needed for it to function
   local rt = require("rust-tools")
+  
+  -- Vim be good for practicing vim motion
+  use 'ThePrimeagen/vim-be-good'
 
   rt.setup({
     server = {
