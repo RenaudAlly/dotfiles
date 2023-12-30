@@ -8526,3 +8526,812 @@
 2023-12-02T08:18:59.528Z [Modules] Host is up to date.
 2023-12-02T08:18:59.528Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2023-12-02T08:18:59.556Z [Modules] No module updates available.
+2023-12-21T07:11:17.538Z [Modules] Modules initializing
+2023-12-21T07:11:17.538Z [Modules] Distribution: remote
+2023-12-21T07:11:17.538Z [Modules] Host updates: enabled
+2023-12-21T07:11:17.538Z [Modules] Module updates: enabled
+2023-12-21T07:11:17.538Z [Modules] Module install path: /home/arjun/.config/discord/0.0.38/modules
+2023-12-21T07:11:17.539Z [Modules] Module installed file path: /home/arjun/.config/discord/0.0.38/modules/installed.json
+2023-12-21T07:11:17.539Z [Modules] Module download path: /home/arjun/.config/discord/0.0.38/modules/pending
+2023-12-21T07:11:19.210Z [Modules] Bootstrapping...
+2023-12-21T07:11:19.211Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-12-21T07:11:19.215Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-12-21T07:11:19.216Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-12-21T07:11:19.218Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-12-21T07:11:19.219Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-12-21T07:11:19.221Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-12-21T07:11:19.221Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-12-21T07:11:19.223Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-12-21T07:11:19.224Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-12-21T07:11:19.231Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-12-21T07:11:19.232Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-12-21T07:11:19.232Z [Modules] Checking for host updates.
+2023-12-21T07:11:19.471Z [Modules] Host update is available. Manual update required!
+2023-12-21T07:12:08.623Z [Modules] Modules initializing
+2023-12-21T07:12:08.624Z [Modules] Distribution: remote
+2023-12-21T07:12:08.624Z [Modules] Host updates: enabled
+2023-12-21T07:12:08.624Z [Modules] Module updates: enabled
+2023-12-21T07:12:08.625Z [Modules] Module install path: /home/arjun/.config/discord/0.0.39/modules
+2023-12-21T07:12:08.625Z [Modules] Module installed file path: /home/arjun/.config/discord/0.0.39/modules/installed.json
+2023-12-21T07:12:08.626Z [Modules] Module download path: /home/arjun/.config/discord/0.0.39/modules/pending
+2023-12-21T07:12:08.985Z [Modules] Bootstrapping...
+2023-12-21T07:12:08.986Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-12-21T07:12:08.992Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-12-21T07:12:08.994Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-12-21T07:12:08.997Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-12-21T07:12:08.997Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-12-21T07:12:09.000Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-12-21T07:12:09.002Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-12-21T07:12:09.005Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-12-21T07:12:09.006Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-12-21T07:12:09.015Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-12-21T07:12:09.016Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-12-21T07:12:09.017Z [Modules] Checking for host updates.
+2023-12-21T07:12:09.399Z [Modules] Host is up to date.
+2023-12-21T07:12:09.400Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-21T07:12:09.617Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-12-21T07:12:09.618Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-12-21T07:12:09.618Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-12-21T07:12:09.618Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-12-21T07:12:09.618Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-12-21T07:12:09.620Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-12-21T07:12:09.620Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip
+2023-12-21T07:12:09.907Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 2%
+2023-12-21T07:12:09.923Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 3%
+2023-12-21T07:12:09.946Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 6%
+2023-12-21T07:12:09.947Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 7%
+2023-12-21T07:12:09.964Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 9%
+2023-12-21T07:12:09.966Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 10%
+2023-12-21T07:12:09.969Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 11%
+2023-12-21T07:12:09.973Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 12%
+2023-12-21T07:12:09.976Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 13%
+2023-12-21T07:12:09.979Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 14%
+2023-12-21T07:12:09.989Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 15%
+2023-12-21T07:12:09.990Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 16%
+2023-12-21T07:12:09.993Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 17%
+2023-12-21T07:12:09.997Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 18%
+2023-12-21T07:12:10.002Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 20%
+2023-12-21T07:12:10.008Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 21%
+2023-12-21T07:12:10.012Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 22%
+2023-12-21T07:12:10.015Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 23%
+2023-12-21T07:12:10.019Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 24%
+2023-12-21T07:12:10.041Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 25%
+2023-12-21T07:12:10.043Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 26%
+2023-12-21T07:12:10.045Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 27%
+2023-12-21T07:12:10.050Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 28%
+2023-12-21T07:12:10.052Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 29%
+2023-12-21T07:12:10.055Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 30%
+2023-12-21T07:12:10.059Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 31%
+2023-12-21T07:12:10.063Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 32%
+2023-12-21T07:12:10.065Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 33%
+2023-12-21T07:12:10.070Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 34%
+2023-12-21T07:12:10.072Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 35%
+2023-12-21T07:12:10.074Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 36%
+2023-12-21T07:12:10.079Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 37%
+2023-12-21T07:12:10.084Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 38%
+2023-12-21T07:12:10.087Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 39%
+2023-12-21T07:12:10.090Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 40%
+2023-12-21T07:12:10.101Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 41%
+2023-12-21T07:12:10.103Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 42%
+2023-12-21T07:12:10.110Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 43%
+2023-12-21T07:12:10.112Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 44%
+2023-12-21T07:12:10.115Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 45%
+2023-12-21T07:12:10.120Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 46%
+2023-12-21T07:12:10.123Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 47%
+2023-12-21T07:12:10.126Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 48%
+2023-12-21T07:12:10.145Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 49%
+2023-12-21T07:12:10.150Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 50%
+2023-12-21T07:12:10.152Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 51%
+2023-12-21T07:12:10.156Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 52%
+2023-12-21T07:12:10.158Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 53%
+2023-12-21T07:12:10.161Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 54%
+2023-12-21T07:12:10.166Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 55%
+2023-12-21T07:12:10.167Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 56%
+2023-12-21T07:12:10.170Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 57%
+2023-12-21T07:12:10.175Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 58%
+2023-12-21T07:12:10.178Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 59%
+2023-12-21T07:12:10.181Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 60%
+2023-12-21T07:12:10.186Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 61%
+2023-12-21T07:12:10.190Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 62%
+2023-12-21T07:12:10.192Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 63%
+2023-12-21T07:12:10.199Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 65%
+2023-12-21T07:12:10.203Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 66%
+2023-12-21T07:12:10.206Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 67%
+2023-12-21T07:12:10.207Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 68%
+2023-12-21T07:12:10.215Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 69%
+2023-12-21T07:12:10.216Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 70%
+2023-12-21T07:12:10.221Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 71%
+2023-12-21T07:12:10.230Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 72%
+2023-12-21T07:12:10.232Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 73%
+2023-12-21T07:12:10.234Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 74%
+2023-12-21T07:12:10.239Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 75%
+2023-12-21T07:12:10.241Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 76%
+2023-12-21T07:12:10.245Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 77%
+2023-12-21T07:12:10.250Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 78%
+2023-12-21T07:12:10.252Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 79%
+2023-12-21T07:12:10.256Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 80%
+2023-12-21T07:12:10.261Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 81%
+2023-12-21T07:12:10.263Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 82%
+2023-12-21T07:12:10.265Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 83%
+2023-12-21T07:12:10.270Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 84%
+2023-12-21T07:12:10.273Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 85%
+2023-12-21T07:12:10.275Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 86%
+2023-12-21T07:12:10.280Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 87%
+2023-12-21T07:12:10.283Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 88%
+2023-12-21T07:12:10.287Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 89%
+2023-12-21T07:12:10.292Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 90%
+2023-12-21T07:12:10.294Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 91%
+2023-12-21T07:12:10.299Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 92%
+2023-12-21T07:12:10.301Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 93%
+2023-12-21T07:12:10.304Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 94%
+2023-12-21T07:12:10.308Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 95%
+2023-12-21T07:12:10.313Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 96%
+2023-12-21T07:12:10.315Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 97%
+2023-12-21T07:12:10.322Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 99%
+2023-12-21T07:12:10.324Z [Modules] Streaming discord_desktop_core@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip: 100%
+2023-12-21T07:12:10.326Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-12-21T07:12:10.326Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip
+2023-12-21T07:12:10.452Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 1%
+2023-12-21T07:12:10.454Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 2%
+2023-12-21T07:12:10.456Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 3%
+2023-12-21T07:12:10.458Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 4%
+2023-12-21T07:12:10.461Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 5%
+2023-12-21T07:12:10.467Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 6%
+2023-12-21T07:12:10.471Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 7%
+2023-12-21T07:12:10.473Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 8%
+2023-12-21T07:12:10.476Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 9%
+2023-12-21T07:12:10.480Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 10%
+2023-12-21T07:12:10.482Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 11%
+2023-12-21T07:12:10.486Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 12%
+2023-12-21T07:12:10.488Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 13%
+2023-12-21T07:12:10.492Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 14%
+2023-12-21T07:12:10.495Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 15%
+2023-12-21T07:12:10.497Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 16%
+2023-12-21T07:12:10.504Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 17%
+2023-12-21T07:12:10.510Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 18%
+2023-12-21T07:12:10.511Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 19%
+2023-12-21T07:12:10.518Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 20%
+2023-12-21T07:12:10.521Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 21%
+2023-12-21T07:12:10.524Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 22%
+2023-12-21T07:12:10.525Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 23%
+2023-12-21T07:12:10.535Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 24%
+2023-12-21T07:12:10.537Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 25%
+2023-12-21T07:12:10.540Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 26%
+2023-12-21T07:12:10.542Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 27%
+2023-12-21T07:12:10.545Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 28%
+2023-12-21T07:12:10.548Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 29%
+2023-12-21T07:12:10.553Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 30%
+2023-12-21T07:12:10.556Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 31%
+2023-12-21T07:12:10.558Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 32%
+2023-12-21T07:12:10.563Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 33%
+2023-12-21T07:12:10.566Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 34%
+2023-12-21T07:12:10.568Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 35%
+2023-12-21T07:12:10.571Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 36%
+2023-12-21T07:12:10.573Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 37%
+2023-12-21T07:12:10.577Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 38%
+2023-12-21T07:12:10.579Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 39%
+2023-12-21T07:12:10.582Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 40%
+2023-12-21T07:12:10.583Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 41%
+2023-12-21T07:12:10.590Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 42%
+2023-12-21T07:12:10.594Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 43%
+2023-12-21T07:12:10.598Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 44%
+2023-12-21T07:12:10.602Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 45%
+2023-12-21T07:12:10.603Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 46%
+2023-12-21T07:12:10.606Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 47%
+2023-12-21T07:12:10.611Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 48%
+2023-12-21T07:12:10.613Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 49%
+2023-12-21T07:12:10.619Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 51%
+2023-12-21T07:12:10.622Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 52%
+2023-12-21T07:12:10.624Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 53%
+2023-12-21T07:12:10.629Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 54%
+2023-12-21T07:12:10.632Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 55%
+2023-12-21T07:12:10.634Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 56%
+2023-12-21T07:12:10.639Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 57%
+2023-12-21T07:12:10.641Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 58%
+2023-12-21T07:12:10.648Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 59%
+2023-12-21T07:12:10.654Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 60%
+2023-12-21T07:12:10.656Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 61%
+2023-12-21T07:12:10.661Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 62%
+2023-12-21T07:12:10.663Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 63%
+2023-12-21T07:12:10.665Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 64%
+2023-12-21T07:12:10.671Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 65%
+2023-12-21T07:12:10.672Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 66%
+2023-12-21T07:12:10.674Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 67%
+2023-12-21T07:12:10.676Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 68%
+2023-12-21T07:12:10.679Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 69%
+2023-12-21T07:12:10.682Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 70%
+2023-12-21T07:12:10.687Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 71%
+2023-12-21T07:12:10.689Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 72%
+2023-12-21T07:12:10.691Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 73%
+2023-12-21T07:12:10.697Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 75%
+2023-12-21T07:12:10.699Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 76%
+2023-12-21T07:12:10.706Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 77%
+2023-12-21T07:12:10.707Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 78%
+2023-12-21T07:12:10.710Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 79%
+2023-12-21T07:12:10.712Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 80%
+2023-12-21T07:12:10.715Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 81%
+2023-12-21T07:12:10.718Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 82%
+2023-12-21T07:12:10.724Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 83%
+2023-12-21T07:12:10.726Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 84%
+2023-12-21T07:12:10.729Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 85%
+2023-12-21T07:12:10.732Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 86%
+2023-12-21T07:12:10.736Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 88%
+2023-12-21T07:12:10.745Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 89%
+2023-12-21T07:12:10.748Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 90%
+2023-12-21T07:12:10.750Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 91%
+2023-12-21T07:12:10.752Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 92%
+2023-12-21T07:12:10.754Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 93%
+2023-12-21T07:12:10.758Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 94%
+2023-12-21T07:12:10.763Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 95%
+2023-12-21T07:12:10.770Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 96%
+2023-12-21T07:12:10.771Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 97%
+2023-12-21T07:12:10.774Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 98%
+2023-12-21T07:12:10.776Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 99%
+2023-12-21T07:12:10.778Z [Modules] Streaming discord_erlpack@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip: 100%
+2023-12-21T07:12:10.781Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-12-21T07:12:10.781Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip
+2023-12-21T07:12:11.092Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 1%
+2023-12-21T07:12:11.108Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 2%
+2023-12-21T07:12:11.129Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 3%
+2023-12-21T07:12:11.143Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 4%
+2023-12-21T07:12:11.163Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 5%
+2023-12-21T07:12:11.181Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 6%
+2023-12-21T07:12:11.197Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 7%
+2023-12-21T07:12:11.218Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 8%
+2023-12-21T07:12:11.236Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 9%
+2023-12-21T07:12:11.255Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 10%
+2023-12-21T07:12:11.277Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 11%
+2023-12-21T07:12:11.292Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 12%
+2023-12-21T07:12:11.308Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 13%
+2023-12-21T07:12:11.323Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 14%
+2023-12-21T07:12:11.336Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 15%
+2023-12-21T07:12:11.365Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 16%
+2023-12-21T07:12:11.385Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 17%
+2023-12-21T07:12:11.399Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 18%
+2023-12-21T07:12:11.415Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 19%
+2023-12-21T07:12:11.430Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 20%
+2023-12-21T07:12:11.450Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 21%
+2023-12-21T07:12:11.469Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 22%
+2023-12-21T07:12:11.491Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 23%
+2023-12-21T07:12:11.505Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 24%
+2023-12-21T07:12:11.522Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 25%
+2023-12-21T07:12:11.537Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 26%
+2023-12-21T07:12:11.554Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 27%
+2023-12-21T07:12:11.575Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 28%
+2023-12-21T07:12:11.590Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 29%
+2023-12-21T07:12:11.605Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 30%
+2023-12-21T07:12:11.623Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 31%
+2023-12-21T07:12:11.638Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 32%
+2023-12-21T07:12:11.657Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 33%
+2023-12-21T07:12:11.682Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 34%
+2023-12-21T07:12:11.699Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 35%
+2023-12-21T07:12:11.712Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 36%
+2023-12-21T07:12:11.728Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 37%
+2023-12-21T07:12:11.749Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 38%
+2023-12-21T07:12:11.785Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 39%
+2023-12-21T07:12:11.804Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 40%
+2023-12-21T07:12:11.819Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 41%
+2023-12-21T07:12:11.838Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 42%
+2023-12-21T07:12:11.854Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 43%
+2023-12-21T07:12:11.874Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 44%
+2023-12-21T07:12:11.892Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 45%
+2023-12-21T07:12:11.907Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 46%
+2023-12-21T07:12:11.925Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 47%
+2023-12-21T07:12:11.939Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 48%
+2023-12-21T07:12:11.955Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 49%
+2023-12-21T07:12:11.974Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 50%
+2023-12-21T07:12:11.996Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 51%
+2023-12-21T07:12:12.010Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 52%
+2023-12-21T07:12:12.028Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 53%
+2023-12-21T07:12:12.045Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 54%
+2023-12-21T07:12:12.062Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 55%
+2023-12-21T07:12:12.083Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 56%
+2023-12-21T07:12:12.101Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 57%
+2023-12-21T07:12:12.115Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 58%
+2023-12-21T07:12:12.131Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 59%
+2023-12-21T07:12:12.148Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 60%
+2023-12-21T07:12:12.165Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 61%
+2023-12-21T07:12:12.185Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 62%
+2023-12-21T07:12:12.201Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 63%
+2023-12-21T07:12:12.216Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 64%
+2023-12-21T07:12:12.238Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 65%
+2023-12-21T07:12:12.256Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 66%
+2023-12-21T07:12:12.272Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 67%
+2023-12-21T07:12:12.294Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 68%
+2023-12-21T07:12:12.309Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 69%
+2023-12-21T07:12:12.326Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 70%
+2023-12-21T07:12:12.339Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 71%
+2023-12-21T07:12:12.354Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 72%
+2023-12-21T07:12:12.371Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 73%
+2023-12-21T07:12:12.392Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 74%
+2023-12-21T07:12:12.411Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 75%
+2023-12-21T07:12:12.425Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 76%
+2023-12-21T07:12:12.447Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 77%
+2023-12-21T07:12:12.461Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 78%
+2023-12-21T07:12:12.485Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 79%
+2023-12-21T07:12:12.502Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 80%
+2023-12-21T07:12:12.518Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 81%
+2023-12-21T07:12:12.534Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 82%
+2023-12-21T07:12:12.551Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 83%
+2023-12-21T07:12:12.566Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 84%
+2023-12-21T07:12:12.586Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 85%
+2023-12-21T07:12:12.601Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 86%
+2023-12-21T07:12:12.620Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 87%
+2023-12-21T07:12:12.635Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 88%
+2023-12-21T07:12:12.653Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 89%
+2023-12-21T07:12:12.669Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 90%
+2023-12-21T07:12:12.688Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 91%
+2023-12-21T07:12:12.710Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 92%
+2023-12-21T07:12:12.724Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 93%
+2023-12-21T07:12:12.741Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 94%
+2023-12-21T07:12:12.756Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 95%
+2023-12-21T07:12:12.775Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 96%
+2023-12-21T07:12:12.793Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 97%
+2023-12-21T07:12:12.811Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 98%
+2023-12-21T07:12:12.828Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 99%
+2023-12-21T07:12:12.845Z [Modules] Streaming discord_spellcheck@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip: 100%
+2023-12-21T07:12:12.848Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-12-21T07:12:12.848Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip
+2023-12-21T07:12:13.133Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 1%
+2023-12-21T07:12:13.139Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 2%
+2023-12-21T07:12:13.143Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 3%
+2023-12-21T07:12:13.148Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 4%
+2023-12-21T07:12:13.153Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 5%
+2023-12-21T07:12:13.159Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 6%
+2023-12-21T07:12:13.164Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 7%
+2023-12-21T07:12:13.169Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 8%
+2023-12-21T07:12:13.174Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 9%
+2023-12-21T07:12:13.182Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 10%
+2023-12-21T07:12:13.186Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 11%
+2023-12-21T07:12:13.191Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 12%
+2023-12-21T07:12:13.198Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 13%
+2023-12-21T07:12:13.213Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 14%
+2023-12-21T07:12:13.219Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 15%
+2023-12-21T07:12:13.224Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 16%
+2023-12-21T07:12:13.229Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 17%
+2023-12-21T07:12:13.234Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 18%
+2023-12-21T07:12:13.241Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 19%
+2023-12-21T07:12:13.246Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 20%
+2023-12-21T07:12:13.250Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 21%
+2023-12-21T07:12:13.256Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 22%
+2023-12-21T07:12:13.265Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 23%
+2023-12-21T07:12:13.271Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 24%
+2023-12-21T07:12:13.275Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 25%
+2023-12-21T07:12:13.279Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 26%
+2023-12-21T07:12:13.286Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 27%
+2023-12-21T07:12:13.291Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 28%
+2023-12-21T07:12:13.297Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 29%
+2023-12-21T07:12:13.300Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 30%
+2023-12-21T07:12:13.305Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 31%
+2023-12-21T07:12:13.310Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 32%
+2023-12-21T07:12:13.316Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 33%
+2023-12-21T07:12:13.322Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 34%
+2023-12-21T07:12:13.328Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 35%
+2023-12-21T07:12:13.333Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 36%
+2023-12-21T07:12:13.338Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 37%
+2023-12-21T07:12:13.342Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 38%
+2023-12-21T07:12:13.345Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 39%
+2023-12-21T07:12:13.350Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 40%
+2023-12-21T07:12:13.357Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 41%
+2023-12-21T07:12:13.361Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 42%
+2023-12-21T07:12:13.367Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 43%
+2023-12-21T07:12:13.372Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 44%
+2023-12-21T07:12:13.376Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 45%
+2023-12-21T07:12:13.381Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 46%
+2023-12-21T07:12:13.388Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 47%
+2023-12-21T07:12:13.392Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 48%
+2023-12-21T07:12:13.398Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 49%
+2023-12-21T07:12:13.403Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 50%
+2023-12-21T07:12:13.411Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 51%
+2023-12-21T07:12:13.416Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 52%
+2023-12-21T07:12:13.422Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 53%
+2023-12-21T07:12:13.426Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 54%
+2023-12-21T07:12:13.432Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 55%
+2023-12-21T07:12:13.436Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 56%
+2023-12-21T07:12:13.441Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 57%
+2023-12-21T07:12:13.443Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 58%
+2023-12-21T07:12:13.448Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 59%
+2023-12-21T07:12:13.454Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 60%
+2023-12-21T07:12:13.461Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 61%
+2023-12-21T07:12:13.465Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 62%
+2023-12-21T07:12:13.469Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 63%
+2023-12-21T07:12:13.474Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 64%
+2023-12-21T07:12:13.478Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 65%
+2023-12-21T07:12:13.484Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 66%
+2023-12-21T07:12:13.491Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 67%
+2023-12-21T07:12:13.492Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 68%
+2023-12-21T07:12:13.497Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 69%
+2023-12-21T07:12:13.504Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 70%
+2023-12-21T07:12:13.514Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 71%
+2023-12-21T07:12:13.517Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 72%
+2023-12-21T07:12:13.522Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 73%
+2023-12-21T07:12:13.526Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 74%
+2023-12-21T07:12:13.532Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 75%
+2023-12-21T07:12:13.536Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 76%
+2023-12-21T07:12:13.538Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 77%
+2023-12-21T07:12:13.551Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 78%
+2023-12-21T07:12:13.556Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 79%
+2023-12-21T07:12:13.569Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 80%
+2023-12-21T07:12:13.573Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 81%
+2023-12-21T07:12:13.579Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 82%
+2023-12-21T07:12:13.582Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 83%
+2023-12-21T07:12:13.586Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 84%
+2023-12-21T07:12:13.594Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 85%
+2023-12-21T07:12:13.599Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 86%
+2023-12-21T07:12:13.601Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 87%
+2023-12-21T07:12:13.608Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 88%
+2023-12-21T07:12:13.614Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 89%
+2023-12-21T07:12:13.619Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 90%
+2023-12-21T07:12:13.625Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 91%
+2023-12-21T07:12:13.630Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 92%
+2023-12-21T07:12:13.634Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 93%
+2023-12-21T07:12:13.641Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 94%
+2023-12-21T07:12:13.647Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 95%
+2023-12-21T07:12:13.649Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 96%
+2023-12-21T07:12:13.653Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 97%
+2023-12-21T07:12:13.658Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 98%
+2023-12-21T07:12:13.663Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 99%
+2023-12-21T07:12:13.666Z [Modules] Streaming discord_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip: 100%
+2023-12-21T07:12:13.667Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-12-21T07:12:13.667Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip
+2023-12-21T07:12:13.991Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 1%
+2023-12-21T07:12:14.037Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 2%
+2023-12-21T07:12:14.085Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 3%
+2023-12-21T07:12:14.124Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 4%
+2023-12-21T07:12:14.200Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 5%
+2023-12-21T07:12:14.244Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 6%
+2023-12-21T07:12:14.291Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 7%
+2023-12-21T07:12:14.336Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 8%
+2023-12-21T07:12:14.377Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 9%
+2023-12-21T07:12:14.419Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 10%
+2023-12-21T07:12:14.468Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 11%
+2023-12-21T07:12:14.513Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 12%
+2023-12-21T07:12:14.557Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 13%
+2023-12-21T07:12:14.599Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 14%
+2023-12-21T07:12:14.646Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 15%
+2023-12-21T07:12:14.700Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 16%
+2023-12-21T07:12:14.743Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 17%
+2023-12-21T07:12:14.782Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 18%
+2023-12-21T07:12:14.821Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 19%
+2023-12-21T07:12:14.866Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 20%
+2023-12-21T07:12:14.906Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 21%
+2023-12-21T07:12:14.955Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 22%
+2023-12-21T07:12:14.991Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 23%
+2023-12-21T07:12:15.035Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 24%
+2023-12-21T07:12:15.076Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 25%
+2023-12-21T07:12:15.117Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 26%
+2023-12-21T07:12:15.161Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 27%
+2023-12-21T07:12:15.206Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 28%
+2023-12-21T07:12:15.253Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 29%
+2023-12-21T07:12:15.307Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 30%
+2023-12-21T07:12:15.352Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 31%
+2023-12-21T07:12:15.394Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 32%
+2023-12-21T07:12:15.431Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 33%
+2023-12-21T07:12:15.476Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 34%
+2023-12-21T07:12:15.519Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 35%
+2023-12-21T07:12:15.563Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 36%
+2023-12-21T07:12:15.614Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 37%
+2023-12-21T07:12:15.657Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 38%
+2023-12-21T07:12:15.702Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 39%
+2023-12-21T07:12:15.739Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 40%
+2023-12-21T07:12:15.784Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 41%
+2023-12-21T07:12:15.821Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 42%
+2023-12-21T07:12:15.862Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 43%
+2023-12-21T07:12:15.907Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 44%
+2023-12-21T07:12:15.955Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 45%
+2023-12-21T07:12:15.999Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 46%
+2023-12-21T07:12:16.038Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 47%
+2023-12-21T07:12:16.082Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 48%
+2023-12-21T07:12:16.125Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 49%
+2023-12-21T07:12:16.168Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 50%
+2023-12-21T07:12:16.210Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 51%
+2023-12-21T07:12:16.259Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 52%
+2023-12-21T07:12:16.298Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 53%
+2023-12-21T07:12:16.344Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 54%
+2023-12-21T07:12:16.387Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 55%
+2023-12-21T07:12:16.428Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 56%
+2023-12-21T07:12:16.468Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 57%
+2023-12-21T07:12:16.520Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 58%
+2023-12-21T07:12:16.559Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 59%
+2023-12-21T07:12:16.600Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 60%
+2023-12-21T07:12:16.644Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 61%
+2023-12-21T07:12:16.689Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 62%
+2023-12-21T07:12:16.727Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 63%
+2023-12-21T07:12:16.772Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 64%
+2023-12-21T07:12:16.811Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 65%
+2023-12-21T07:12:16.860Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 66%
+2023-12-21T07:12:16.900Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 67%
+2023-12-21T07:12:16.959Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 68%
+2023-12-21T07:12:17.001Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 69%
+2023-12-21T07:12:17.044Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 70%
+2023-12-21T07:12:17.083Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 71%
+2023-12-21T07:12:17.133Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 72%
+2023-12-21T07:12:17.184Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 73%
+2023-12-21T07:12:17.248Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 74%
+2023-12-21T07:12:17.306Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 75%
+2023-12-21T07:12:17.353Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 76%
+2023-12-21T07:12:17.405Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 77%
+2023-12-21T07:12:17.456Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 78%
+2023-12-21T07:12:17.510Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 79%
+2023-12-21T07:12:17.558Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 80%
+2023-12-21T07:12:17.610Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 81%
+2023-12-21T07:12:17.660Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 82%
+2023-12-21T07:12:17.711Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 83%
+2023-12-21T07:12:17.753Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 84%
+2023-12-21T07:12:17.798Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 85%
+2023-12-21T07:12:17.840Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 86%
+2023-12-21T07:12:17.888Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 87%
+2023-12-21T07:12:17.936Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 88%
+2023-12-21T07:12:17.976Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 89%
+2023-12-21T07:12:18.021Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 90%
+2023-12-21T07:12:18.060Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 91%
+2023-12-21T07:12:18.116Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 92%
+2023-12-21T07:12:18.157Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 93%
+2023-12-21T07:12:18.205Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 94%
+2023-12-21T07:12:18.250Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 95%
+2023-12-21T07:12:18.291Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 96%
+2023-12-21T07:12:18.335Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 97%
+2023-12-21T07:12:18.374Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 98%
+2023-12-21T07:12:18.425Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 99%
+2023-12-21T07:12:18.463Z [Modules] Streaming discord_voice@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip: 100%
+2023-12-21T07:12:18.465Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-12-21T07:12:18.465Z [Modules] Installing updates...
+2023-12-21T07:12:18.466Z [Modules] Installing discord_desktop_core@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_desktop_core-1.zip
+2023-12-21T07:12:18.603Z [Modules] Installing discord_erlpack@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_erlpack-1.zip
+2023-12-21T07:12:18.689Z [Modules] Installing discord_spellcheck@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_spellcheck-1.zip
+2023-12-21T07:12:20.204Z [Modules] Installing discord_utils@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_utils-1.zip
+2023-12-21T07:12:20.440Z [Modules] Installing discord_voice@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_voice-1.zip
+2023-12-21T07:12:22.671Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-12-21T07:12:22.672Z [Modules] Checking for host updates.
+2023-12-21T07:12:22.928Z [Modules] Host is up to date.
+2023-12-21T07:12:22.928Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-21T07:12:22.940Z [Modules] No module updates available.
+2023-12-21T07:12:24.867Z [Modules] Starting to install discord_krisp...
+2023-12-21T07:12:24.867Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-12-21T07:12:24.867Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip
+2023-12-21T07:12:24.905Z [Modules] Starting to install discord_game_utils...
+2023-12-21T07:12:25.448Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 1%
+2023-12-21T07:12:25.525Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 2%
+2023-12-21T07:12:25.602Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 3%
+2023-12-21T07:12:25.673Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 4%
+2023-12-21T07:12:25.729Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 5%
+2023-12-21T07:12:25.788Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 6%
+2023-12-21T07:12:25.841Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 7%
+2023-12-21T07:12:25.896Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 8%
+2023-12-21T07:12:25.943Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 9%
+2023-12-21T07:12:25.987Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 10%
+2023-12-21T07:12:26.028Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 11%
+2023-12-21T07:12:26.068Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 12%
+2023-12-21T07:12:26.108Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 13%
+2023-12-21T07:12:26.149Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 14%
+2023-12-21T07:12:26.190Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 15%
+2023-12-21T07:12:26.242Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 16%
+2023-12-21T07:12:26.261Z [Modules] Checking for host updates.
+2023-12-21T07:12:26.277Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 17%
+2023-12-21T07:12:26.321Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 18%
+2023-12-21T07:12:26.357Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 19%
+2023-12-21T07:12:26.358Z [Modules] Host is up to date.
+2023-12-21T07:12:26.358Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-21T07:12:26.363Z [Modules] No module updates available.
+2023-12-21T07:12:26.395Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 20%
+2023-12-21T07:12:26.430Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 21%
+2023-12-21T07:12:26.460Z [Modules] Starting to install discord_rpc...
+2023-12-21T07:12:26.482Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 22%
+2023-12-21T07:12:26.514Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 23%
+2023-12-21T07:12:26.549Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 24%
+2023-12-21T07:12:26.589Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 25%
+2023-12-21T07:12:26.628Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 26%
+2023-12-21T07:12:26.662Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 27%
+2023-12-21T07:12:26.708Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 28%
+2023-12-21T07:12:26.751Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 29%
+2023-12-21T07:12:26.793Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 30%
+2023-12-21T07:12:26.843Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 31%
+2023-12-21T07:12:26.884Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 32%
+2023-12-21T07:12:26.920Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 33%
+2023-12-21T07:12:26.975Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 34%
+2023-12-21T07:12:27.024Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 35%
+2023-12-21T07:12:27.088Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 36%
+2023-12-21T07:12:27.125Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 37%
+2023-12-21T07:12:27.163Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 38%
+2023-12-21T07:12:27.210Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 39%
+2023-12-21T07:12:27.275Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 40%
+2023-12-21T07:12:27.343Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 41%
+2023-12-21T07:12:27.415Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 42%
+2023-12-21T07:12:27.416Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 43%
+2023-12-21T07:12:27.454Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 44%
+2023-12-21T07:12:27.493Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 45%
+2023-12-21T07:12:27.530Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 46%
+2023-12-21T07:12:27.567Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 47%
+2023-12-21T07:12:27.614Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 48%
+2023-12-21T07:12:27.648Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 49%
+2023-12-21T07:12:27.684Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 50%
+2023-12-21T07:12:27.725Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 51%
+2023-12-21T07:12:27.766Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 52%
+2023-12-21T07:12:27.812Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 53%
+2023-12-21T07:12:27.851Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 54%
+2023-12-21T07:12:27.884Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 55%
+2023-12-21T07:12:27.924Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 56%
+2023-12-21T07:12:27.959Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 57%
+2023-12-21T07:12:27.997Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 58%
+2023-12-21T07:12:28.034Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 59%
+2023-12-21T07:12:28.070Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 60%
+2023-12-21T07:12:28.108Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 61%
+2023-12-21T07:12:28.149Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 62%
+2023-12-21T07:12:28.186Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 63%
+2023-12-21T07:12:28.229Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 64%
+2023-12-21T07:12:28.268Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 65%
+2023-12-21T07:12:28.306Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 66%
+2023-12-21T07:12:28.346Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 67%
+2023-12-21T07:12:28.387Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 68%
+2023-12-21T07:12:28.420Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 69%
+2023-12-21T07:12:28.460Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 70%
+2023-12-21T07:12:28.498Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 71%
+2023-12-21T07:12:28.539Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 72%
+2023-12-21T07:12:28.577Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 73%
+2023-12-21T07:12:28.612Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 74%
+2023-12-21T07:12:28.653Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 75%
+2023-12-21T07:12:28.690Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 76%
+2023-12-21T07:12:28.727Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 77%
+2023-12-21T07:12:29.093Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 78%
+2023-12-21T07:12:29.094Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 79%
+2023-12-21T07:12:29.095Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 80%
+2023-12-21T07:12:29.096Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 81%
+2023-12-21T07:12:29.097Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 82%
+2023-12-21T07:12:29.097Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 83%
+2023-12-21T07:12:29.098Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 84%
+2023-12-21T07:12:29.099Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 85%
+2023-12-21T07:12:29.100Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 86%
+2023-12-21T07:12:29.114Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 87%
+2023-12-21T07:12:29.162Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 88%
+2023-12-21T07:12:29.197Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 89%
+2023-12-21T07:12:29.244Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 90%
+2023-12-21T07:12:29.286Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 91%
+2023-12-21T07:12:29.325Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 92%
+2023-12-21T07:12:29.359Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 93%
+2023-12-21T07:12:29.399Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 94%
+2023-12-21T07:12:30.216Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 95%
+2023-12-21T07:12:30.218Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 96%
+2023-12-21T07:12:30.218Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 97%
+2023-12-21T07:12:30.220Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 98%
+2023-12-21T07:12:30.220Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 99%
+2023-12-21T07:12:30.223Z [Modules] Streaming discord_krisp@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip: 100%
+2023-12-21T07:12:30.250Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-12-21T07:12:30.250Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip
+2023-12-21T07:12:30.251Z [Modules] Installing discord_krisp@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_krisp-1.zip
+2023-12-21T07:12:30.393Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 1%
+2023-12-21T07:12:30.397Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 2%
+2023-12-21T07:12:30.402Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 3%
+2023-12-21T07:12:30.406Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 4%
+2023-12-21T07:12:30.409Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 5%
+2023-12-21T07:12:30.414Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 6%
+2023-12-21T07:12:30.417Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 7%
+2023-12-21T07:12:30.421Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 8%
+2023-12-21T07:12:30.424Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 9%
+2023-12-21T07:12:30.429Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 10%
+2023-12-21T07:12:30.434Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 11%
+2023-12-21T07:12:30.436Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 12%
+2023-12-21T07:12:30.449Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 14%
+2023-12-21T07:12:30.451Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 15%
+2023-12-21T07:12:30.453Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 16%
+2023-12-21T07:12:30.458Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 17%
+2023-12-21T07:12:30.461Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 18%
+2023-12-21T07:12:30.466Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 19%
+2023-12-21T07:12:30.468Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 20%
+2023-12-21T07:12:30.473Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 21%
+2023-12-21T07:12:30.475Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 22%
+2023-12-21T07:12:30.480Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 23%
+2023-12-21T07:12:30.487Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 24%
+2023-12-21T07:12:30.489Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 25%
+2023-12-21T07:12:30.498Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 26%
+2023-12-21T07:12:30.499Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 27%
+2023-12-21T07:12:30.509Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 28%
+2023-12-21T07:12:30.510Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 29%
+2023-12-21T07:12:30.513Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 30%
+2023-12-21T07:12:30.515Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 31%
+2023-12-21T07:12:30.521Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 32%
+2023-12-21T07:12:30.523Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 33%
+2023-12-21T07:12:30.527Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 34%
+2023-12-21T07:12:30.533Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 35%
+2023-12-21T07:12:30.538Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 36%
+2023-12-21T07:12:30.546Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 37%
+2023-12-21T07:12:30.551Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 38%
+2023-12-21T07:12:30.554Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 39%
+2023-12-21T07:12:30.556Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 40%
+2023-12-21T07:12:30.561Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 41%
+2023-12-21T07:12:30.563Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 42%
+2023-12-21T07:12:30.570Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 43%
+2023-12-21T07:12:30.573Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 44%
+2023-12-21T07:12:30.577Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 45%
+2023-12-21T07:12:30.580Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 46%
+2023-12-21T07:12:30.590Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 47%
+2023-12-21T07:12:30.594Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 48%
+2023-12-21T07:12:30.596Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 49%
+2023-12-21T07:12:30.602Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 50%
+2023-12-21T07:12:30.608Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 51%
+2023-12-21T07:12:30.613Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 52%
+2023-12-21T07:12:30.615Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 53%
+2023-12-21T07:12:30.620Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 54%
+2023-12-21T07:12:30.623Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 55%
+2023-12-21T07:12:30.629Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 56%
+2023-12-21T07:12:30.632Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 57%
+2023-12-21T07:12:30.637Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 58%
+2023-12-21T07:12:30.641Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 59%
+2023-12-21T07:12:30.647Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 60%
+2023-12-21T07:12:30.663Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 64%
+2023-12-21T07:12:30.668Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 65%
+2023-12-21T07:12:30.670Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 66%
+2023-12-21T07:12:30.676Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 67%
+2023-12-21T07:12:30.678Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 68%
+2023-12-21T07:12:30.684Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 69%
+2023-12-21T07:12:30.687Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 70%
+2023-12-21T07:12:30.694Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 71%
+2023-12-21T07:12:30.704Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 72%
+2023-12-21T07:12:30.709Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 73%
+2023-12-21T07:12:30.717Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 75%
+2023-12-21T07:12:30.720Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 76%
+2023-12-21T07:12:30.724Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 77%
+2023-12-21T07:12:30.728Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 78%
+2023-12-21T07:12:30.731Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 79%
+2023-12-21T07:12:30.736Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 80%
+2023-12-21T07:12:30.738Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 81%
+2023-12-21T07:12:30.742Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 82%
+2023-12-21T07:12:30.744Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 83%
+2023-12-21T07:12:30.756Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 84%
+2023-12-21T07:12:30.763Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 85%
+2023-12-21T07:12:30.766Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 86%
+2023-12-21T07:12:30.771Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 87%
+2023-12-21T07:12:30.773Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 88%
+2023-12-21T07:12:30.778Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 89%
+2023-12-21T07:12:30.782Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 90%
+2023-12-21T07:12:30.789Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 91%
+2023-12-21T07:12:30.791Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 92%
+2023-12-21T07:12:30.802Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 95%
+2023-12-21T07:12:30.805Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 96%
+2023-12-21T07:12:30.811Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 97%
+2023-12-21T07:12:30.817Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 98%
+2023-12-21T07:12:30.820Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 99%
+2023-12-21T07:12:30.821Z [Modules] Streaming discord_game_utils@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip: 100%
+2023-12-21T07:12:30.876Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-12-21T07:12:30.876Z [Modules] Streaming discord_rpc@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_rpc-1.zip
+2023-12-21T07:12:31.020Z [Modules] Streaming discord_rpc@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_rpc-1.zip: 38%
+2023-12-21T07:12:31.022Z [Modules] Streaming discord_rpc@1 to /home/arjun/.config/discord/0.0.39/modules/pending/discord_rpc-1.zip: 100%
+2023-12-21T07:12:31.071Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-12-21T07:12:31.163Z [Modules] Installing discord_game_utils@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_game_utils-1.zip
+2023-12-21T07:12:31.272Z [Modules] Installing discord_rpc@1 from /home/arjun/.config/discord/0.0.39/modules/pending/discord_rpc-1.zip
+2023-12-21T07:12:31.316Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-12-27T04:28:43.900Z [Modules] Modules initializing
+2023-12-27T04:28:43.901Z [Modules] Distribution: remote
+2023-12-27T04:28:43.901Z [Modules] Host updates: enabled
+2023-12-27T04:28:43.902Z [Modules] Module updates: enabled
+2023-12-27T04:28:43.902Z [Modules] Module install path: /home/arjun/.config/discord/0.0.39/modules
+2023-12-27T04:28:43.903Z [Modules] Module installed file path: /home/arjun/.config/discord/0.0.39/modules/installed.json
+2023-12-27T04:28:43.903Z [Modules] Module download path: /home/arjun/.config/discord/0.0.39/modules/pending
+2023-12-27T04:28:44.353Z [Modules] No updates to install
+2023-12-27T04:28:44.354Z [Modules] Checking for host updates.
+2023-12-27T04:28:44.642Z [Modules] Host is up to date.
+2023-12-27T04:28:44.643Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-27T04:28:44.777Z [Modules] No module updates available.
+2023-12-27T04:28:49.461Z [Modules] Checking for host updates.
+2023-12-27T04:28:49.576Z [Modules] Host is up to date.
+2023-12-27T04:28:49.576Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-27T04:28:49.582Z [Modules] No module updates available.
+2023-12-27T05:28:49.464Z [Modules] Checking for host updates.
+2023-12-27T05:28:49.780Z [Modules] Host is up to date.
+2023-12-27T05:28:49.781Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-27T05:28:49.827Z [Modules] No module updates available.
+2023-12-30T06:28:10.845Z [Modules] Modules initializing
+2023-12-30T06:28:10.845Z [Modules] Distribution: remote
+2023-12-30T06:28:10.845Z [Modules] Host updates: enabled
+2023-12-30T06:28:10.846Z [Modules] Module updates: enabled
+2023-12-30T06:28:10.846Z [Modules] Module install path: /home/arjun/.config/discord/0.0.39/modules
+2023-12-30T06:28:10.846Z [Modules] Module installed file path: /home/arjun/.config/discord/0.0.39/modules/installed.json
+2023-12-30T06:28:10.846Z [Modules] Module download path: /home/arjun/.config/discord/0.0.39/modules/pending
+2023-12-30T06:28:11.115Z [Modules] No updates to install
+2023-12-30T06:28:11.116Z [Modules] Checking for host updates.
+2023-12-30T06:28:11.380Z [Modules] Host is up to date.
+2023-12-30T06:28:11.381Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-30T06:28:11.584Z [Modules] No module updates available.
+2023-12-30T06:28:14.582Z [Modules] Checking for host updates.
+2023-12-30T06:28:14.687Z [Modules] Host is up to date.
+2023-12-30T06:28:14.687Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-30T06:28:14.691Z [Modules] No module updates available.

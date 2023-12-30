@@ -1,0 +1,58 @@
+2023-12-29T06:24:56.813Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-12-29T06:24:56.891Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:24:56.897Z - info: [ui] launching: 3.3.6-linux3 (Linux 6.6.7-arch1-1)
+2023-12-29T06:24:56.897Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-12-29T06:24:56.902Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:24:56.940Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:24:57.191Z - info: [ui] Opt in reported.
+2023-12-29T06:24:58.442Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-12-29T06:24:58.444Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-12-29T06:24:58.448Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=fecde50c-d503-41a7-a721-c816e8afb83d
+2023-12-29T06:24:58.449Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-12-29T06:25:12.557Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-12-29T06:25:19.407Z - info: [main] Received possible protocol arguments: 3
+2023-12-29T06:25:19.407Z - info: [main] Processing protocol url
+2023-12-29T06:25:19.408Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-12-29T06:25:19.598Z - info: [main] Received possible protocol arguments: 2
+2023-12-29T06:25:19.608Z - info: [main] Processing protocol url
+2023-12-29T06:25:20.153Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-12-29T06:25:20.232Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-12-29T06:25:20.883Z - info: [ui] [SignInStore] account resolved
+2023-12-29T06:25:20.884Z - info: [ui] [AppStore] adding account RenaudAlly (ally.c) to store
+2023-12-29T06:25:20.906Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-12-29T06:25:20.992Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:25:21.001Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:25:36.167Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:25:36.577Z - info: [ui] Subscribed 'RenaudAlly' to Alive channel
+2023-12-29T06:25:37.878Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:25:38.192Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-12-29T06:25:59.199Z - info: [ui] [AppStore] adding repository at /home/arjun/ASU_files to store
+2023-12-29T06:26:02.742Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: ASU-Files - RenaudAlly (has token)
+2023-12-29T06:26:03.688Z - error: [ui] `git -c credential.helper= push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/RenaudAlly/ASU-Files.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/RenaudAlly/ASU-Files.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2023-12-29T06:26:09.294Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: ASU-Files - RenaudAlly (has token)
+2023-12-29T06:26:24.376Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 15.067s)
+2023-12-29T06:26:28.733Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: ASU-Files - RenaudAlly (has token)
+2023-12-29T06:26:30.434Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.649s)
+2023-12-29T06:26:34.049Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: ASU-Files - RenaudAlly (has token)
+2023-12-29T06:26:35.536Z - info: [ui] Executing push: git -c credential.helper= push origin master:master --progress (took 1.484s)
+2023-12-29T06:26:37.378Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.019s)
+2023-12-29T06:29:40.872Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-12-29T06:29:40.877Z - info: [ui] [AppStore] found account: RenaudAlly (ally.c)
+2023-12-29T06:29:40.911Z - info: [ui] [BranchPruner] Last prune took place 4 minutes ago - skipping
+2023-12-29T06:29:41.121Z - info: [ui] launching: 3.3.6-linux3 (Linux 6.6.7-arch1-1)
+2023-12-29T06:29:41.140Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-12-29T06:29:41.581Z - info: [ui] Subscribed 'RenaudAlly' to Alive channel
+2023-12-29T06:29:41.703Z - info: [ui] Stats reported.
+2023-12-29T06:29:43.101Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: ASU-Files - RenaudAlly (has token)
+2023-12-29T06:29:44.561Z - info: [ui] Executing push: git -c credential.helper= push origin master:master --progress (took 1.457s)

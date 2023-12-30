@@ -1,6 +1,6 @@
 return {
   "nvim-neo-tree/neo-tree.nvim",
-  branch = "*",
+  branch = "v3.x",
   dependencies = {
     "nvim-tree/nvim-web-devicons",  -- for prettier file-specific icons
     "nvim-lua/plenary.nvim",

@@ -4,7 +4,7 @@
 	"margin-bottom": -10,
 	"margin-top": 10,
 	"modules-left": ["custom/launcher", "cpu","memory", "network","custom/spotify", "tray"],
-	"modules-center": ["wlr/workspaces"],
+	"modules-center": ["hyprland/workspaces"],
 	"modules-right": ["backlight","pulseaudio","clock", "battery", "custom/power"],
 	
 	"pulseaudio": {
@@ -80,7 +80,7 @@
         "on-click": "bash ~/.config/rofi/leave/leave.sh",
     },
     // The code following below is given in the great documentation for Waybar status bar under Useful Utilities in Hyprland wiki
-    "wlr/workspaces": {
+    "hyrpland/workspaces": {
     	"format": "{icon}",
 	"on-scroll-up": "hyprctl dispatch workspace e+1",
 	"on-scroll-down": "hyprctl dispatch workspace e-1",

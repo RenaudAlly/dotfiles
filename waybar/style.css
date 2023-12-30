@@ -59,11 +59,11 @@ window#waybar.hidden {
 	box-shadow: inherit;
 	text-shadow: inherit;
 	color: #FAE3B0;
-    border-color: #E8A2AF;
-    color: #E8A2AF;
+	border-color: #E8A2AF;
+	color: #E8A2AF;
 }
 
-#workspaces button.focused:hover {
+#workspaces button.active:hover {
     color: #E8A2AF;
 }
 
