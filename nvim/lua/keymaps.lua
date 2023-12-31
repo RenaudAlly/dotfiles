@@ -41,22 +41,12 @@ vim.api.nvim_set_keymap('v', '<C-/>', 'gcc', { noremap = false })
 -- Toggling transparency (for colorscheme)
 vim.keymap.set("n", "<leader>tt", ":TransparentToggle<CR>", { noremap = true, silent = true, desc = "Toggles transparency" })
 
--- Navigating between windows in terminal and insert mode
-vim.keymap.set("t", '<C-h>', [[<C-\><C-N><C-w>h]], {silent = true, desc = 'Move left in terminal mode'})
-vim.keymap.set("t", '<C-j>', [[<C-\><C-N><C-w>j]], {silent = true, desc = 'Move down in terminal mode'})
-vim.keymap.set("t", '<C-k>', [[<C-\><C-N><C-w>k]], {silent = true, desc = 'Move up in terminal mode'})
-vim.keymap.set("t", '<C-l>', [[<C-\><C-N><C-w>l]], {silent = true, desc = 'Move right in terminal mode'})
-vim.keymap.set("i", '<C-h>', [[<C-\><C-N><C-w>h]], {silent = true, desc = 'Move left in insert mode'})
-vim.keymap.set("i", '<C-j>', [[<C-\><C-N><C-w>j]], {silent = true, desc = 'Move down in insert mode'})
-vim.keymap.set("i", '<C-k>', [[<C-\><C-N><C-w>k]], {silent = true, desc = 'Move up in insert mode'})
-vim.keymap.set("i", '<C-l>', [[<C-\><C-N><C-w>l]], {silent = true, desc = 'Move right in insert mode'})
-
 -- Changing, deleting words in various modes
 -- I prefer that cw always deletes the entire word rather than till the end of the word
 vim.keymap.set({"n", "v"}, 'cw', 'ciw', {noremap = true, silent = true, desc = 'Change word entirely'})
 vim.keymap.set({"n", "v"}, 'dw', 'diw', {noremap = true, silent = true, desc = 'Delete word entirely'})
 -- I'm more used to the following binding from muscle memory
-vim.keymap.set("i", "<C-BS>", "<C-W>", {noremap = true, silent = true})
+vim.keymap.set("i", "<C-H>", "<C-W>", {noremap = true, silent = true})
 -- vim: ts=2 sts=2 sw=2 et
 
 -- Making navigation easier on the eyes
