@@ -87,9 +87,13 @@ local servers = {
       diagnostics = { disable = { 'missing-fields' } },
     },
   },
+  tsserver = {
+    filetypes = { "typescript", "typescriptreact", "typescript.tsx" },
+    cmd = { "typescript-language-server", "--stdio" },
+  },
+  tailwindcss = {},
+  html = { filetypes = { 'html', 'twig', 'hbs'} },
   -- gopls = {},
-  -- tsserver = {},
-  -- html = { filetypes = { 'html', 'twig', 'hbs'} },
 }
 
 -- Setup neovim lua configuration

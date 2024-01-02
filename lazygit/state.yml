@@ -5,6 +5,7 @@ recentrepos:
 - /home/arjun/ASU_files
 - /home/arjun/ASU_projects/AMS
 startuppopupversion: 5
-customcommandshistory: []
+customcommandshistory:
+- x
 hidecommandlog: false
 ignorewhitespaceindiffview: true

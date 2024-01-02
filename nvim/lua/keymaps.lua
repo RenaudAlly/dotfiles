@@ -25,18 +25,9 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   pattern = '*',
 })
 
--- Looking at Directory Contents or not
-vim.keymap.set('n', '<leader>fo', ':Neotree source=filesystem action=show<CR>', { noremap = true, silent = true, desc = 'Opens neo-tree filesystem' })
-vim.keymap.set('n', '<leader>fg', ':Neotree source=git_status<CR>', { noremap = true, silent = true, desc = 'Opens neo-tree git' })
-vim.keymap.set('n', '<leader>fc', ':Neotree action=close<CR>', { noremap = true, silent = true, desc = 'Closes neo-tree filesystem' })
-
 -- Indenting 
 vim.keymap.set("v", "<", "<gv")
 vim.keymap.set("v", ">", ">gv")
-
--- Commenting
-vim.api.nvim_set_keymap('n', '<C-/>', 'gcc', { noremap = false }) -- keybind for ctrl + / (gotten by going into Insert mode and then <c-v> + <c-/>
-vim.api.nvim_set_keymap('v', '<C-/>', 'gcc', { noremap = false })
 
 -- Toggling transparency (for colorscheme)
 vim.keymap.set("n", "<leader>tt", ":TransparentToggle<CR>", { noremap = true, silent = true, desc = "Toggles transparency" })
